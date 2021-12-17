@@ -53,3 +53,8 @@ build/
 
 ### VS Code ###
 .vscode/
+/scripts/jdk_debug/
+/scripts/filelist.txt
+/scripts/log.txt
+/scripts/rt.jar
+/scripts/tools.jar
